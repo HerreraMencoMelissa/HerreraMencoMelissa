@@ -15,12 +15,13 @@
 ---
 
 ## whoami
-
+<div align="center">
+  
 Soy Melissa, Ingeniera de Sistemas egresada de la Universidad de La Guajira. Durante mi formación desarrollé habilidades en desarrollo web, diseño y administración de bases de datos, además de fortalecer mi capacidad para analizar y resolver problemas de manera práctica.
 
 He participado en proyectos académicos que incluyen sistemas de gestión desarrollados con PHP y MySQL, así como aplicaciones móviles utilizando Node.js y Firebase. Me considero una persona responsable, analítica y con muchas ganas de seguir aprendiendo y mejorando mis habilidades.
 
-
+</div> <div align="center">
 <div align="center">
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)

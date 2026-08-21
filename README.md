@@ -74,10 +74,12 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 <div align="center">
 
-📍 La Guajira, Colombia 
+📍 La Guajira, Colombia
+</div> <div align="center">
+  <div align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-herrera-menco)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:herreramencomelissa@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+</div> <div align="center">
 </div>

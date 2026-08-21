@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
-<img src="https://github.com/HerreraMencoMelissa.png" width="140" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/204275159?v=4" width="140" style="border-radius:50%"/>
 
 # Melissa Herrera Menco
 
@@ -16,7 +16,10 @@
 
 ## whoami
 
-Soy **Melissa** — Ingeniera en Sistemas egresada de la **Universidad de La Guajira**. Me formé con enfoque en desarrollo web, diseño y administración de bases de datos, y resolución de problemas con lógica y buenas prácticas. He trabajado en proyectos académicos que van desde sistemas de gestión con PHP/MySQL hasta apps móviles con Node.js y Firebase. Me caracterizo por mi pensamiento analítico, responsabilidad y capacidad de aprendizaje continuo. Busco una oportunidad para seguir creciendo como desarrolladora.
+Soy Melissa, Ingeniera de Sistemas egresada de la Universidad de La Guajira. Durante mi formación desarrollé habilidades en desarrollo web, diseño y administración de bases de datos, además de fortalecer mi capacidad para analizar y resolver problemas de manera práctica.
+
+He participado en proyectos académicos que incluyen sistemas de gestión desarrollados con PHP y MySQL, así como aplicaciones móviles utilizando Node.js y Firebase. Me considero una persona responsable, analítica y con muchas ganas de seguir aprendiendo y mejorando mis habilidades.
+
 
 <div align="center">
 
@@ -51,14 +54,14 @@ Soy **Melissa** — Ingeniera en Sistemas egresada de la **Universidad de La Gua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HerreraMencoMelissa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c&icon_color=e91e8c" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=HerreraMencoMelissa&theme=radical&hide_border=true&background=0d1117&ring=e91e8c&fire=e91e8c" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=HerreraMencoMelissa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c&icon_color=e91e8c" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=HerreraMencoMelissa&theme=radical&hide_border=true&background=0d1117&ring=e91e8c&fire=e91e8c" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerreraMencoMelissa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HerreraMencoMelissa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c" width="60%"/>
 
 </div>
 

@@ -66,21 +66,6 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 </div>
 
----
-
-## 🛠️ Proyectos destacados
-
-- **Sistema de Información para Farmacias y Consultorios** — gestión de inventario, ventas y reportes (PHP, MySQL, HTML, CSS).
-- **Aplicación Móvil para Rutinas de Ejercicio** — planificación y seguimiento de entrenamientos (Node.js, Expo, Firebase, MySQL).
-- **Sistema Automatizado de Control de Parqueadero Universitario** — proyecto de grado, automatización de ingreso/salida vehicular (PHP, MySQL, HTML, CSS, JavaScript).
-- **Sistema de Seguimiento y Gestión de Viajes Vehiculares** — control de rutas y vehículos con normalización de base de datos (Laravel, MySQL, PHP, CSS).
-
----
-
-<div align="center">
-
-### 🏆 Logros
-
 <img src="https://github-profile-trophy.vercel.app/?username=HerreraMencoMelissa&theme=radical&no-frame=true&column=4&margin-w=10" width="80%"/>
 
 </div>
@@ -89,10 +74,7 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 <div align="center">
 
-### Construyamos algo juntos
-
-📍 La Guajira, Colombia &nbsp;·&nbsp; ✉️ herreramencomelissa@gmail.com
-
+📍 La Guajira, Colombia 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-herrera-menco)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:herreramencomelissa@gmail.com)
 

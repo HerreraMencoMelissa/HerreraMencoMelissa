@@ -64,9 +64,6 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HerreraMencoMelissa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c" width="60%"/>
 
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HerreraMencoMelissa&theme=radical&no-frame=true&column=4&margin-w=10" width="80%"/>
 
 </div>
 

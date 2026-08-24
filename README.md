@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/204275159?v=4" width="140" style="border-radius:50%"/>
+<img src= "https://avatars.githubusercontent.com/u/204275159?v=4" width="140" style="border-radius:50%"/>
 
 # Melissa Herrera Menco
 

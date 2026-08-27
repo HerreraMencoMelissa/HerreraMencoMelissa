@@ -17,7 +17,7 @@
 ## whoami
 <div align="center">
   
-Soy Melissa, Ingeniera de Sistemas egresada de la Universidad de La Guajira. Durante mi formación desarrollé habilidades en desarrollo web, diseño y administración de bases de datos, además de fortalecer mi capacidad para analizar y resolver problemas de manera práctica.
+Ingeniera de Sistemas egresada de la Universidad de La Guajira. Durante mi formación desarrollé habilidades en desarrollo web, diseño y administración de bases de datos, además de fortalecer mi capacidad para analizar y resolver problemas de manera práctica.
 
 He participado en proyectos académicos que incluyen sistemas de gestión desarrollados con PHP y MySQL, así como aplicaciones móviles utilizando Node.js y Firebase. Me considero una persona responsable, analítica y con muchas ganas de seguir aprendiendo y mejorando mis habilidades.
 
@@ -49,7 +49,7 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 ### 📊 Actividad de GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HerreraMencoMelissa&theme=react-dark&bg_color=0d1117&color=e91e8c&line=e91e8c&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HerreraMencoMe&theme=react-dark&bg_color=0d1117&color=e91e8c&line=e91e8c&point=ffffff" width="100%"/>
 
 </div>
 

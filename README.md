@@ -49,8 +49,7 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 ### 📊 Actividad de GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HerreraMencoMe&theme=react-dark&bg_color=0d1117&color=e91e8c&line=e91e8c&point=ffffff" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HerreraMencoMe&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -71,7 +70,7 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 <div align="center">
 
-📍 La Guajira, Colombia
+ La Guajira, Colombia
 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-herrera-menco)

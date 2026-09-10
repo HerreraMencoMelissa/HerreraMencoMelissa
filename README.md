@@ -4,7 +4,7 @@
 
 <img src= "https://avatars.githubusercontent.com/u/204275159?v=4" width="140" style="border-radius:50%"/>
 
-# Melissa Herrera Menco
+# Melissa HM
 
 ### Ingeniera en Sistemas · Desarrollo Web · Bases de Datos
 
@@ -21,7 +21,8 @@ Ingeniera de Sistemas egresada de la Universidad de La Guajira. Durante mi forma
 
 He participado en proyectos académicos que incluyen sistemas de gestión desarrollados con PHP y MySQL, así como aplicaciones móviles utilizando Node.js y Firebase. Me considero una persona responsable, analítica y con muchas ganas de seguir aprendiendo y mejorando mis habilidades.
 
-</div> <div align="center">
+</div>
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -47,22 +48,25 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 
 <div align="center">
 
-### 📊 Actividad de GitHub
+### 🐍 Actividad de GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HerreraMencoMe&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HerreraMencoMelissa/HerreraMencoMelissa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HerreraMencoMelissa/HerreraMencoMelissa/output/github-contribution-grid-snake.svg">
+  <img alt="serpiente de contribuciones" src="https://raw.githubusercontent.com/HerreraMencoMelissa/HerreraMencoMelissa/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 </div>
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=HerreraMencoMelissa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c&icon_color=e91e8c" width="48%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=HerreraMencoMelissa&theme=radical&hide_border=true&background=0d1117&ring=e91e8c&fire=e91e8c" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=HerreraMencoMelissa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c&icon_color=e91e8c&cache_bust=1" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=HerreraMencoMelissa&theme=radical&hide_border=true&background=0d1117&ring=e91e8c&fire=e91e8c&cache_bust=1" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HerreraMencoMelissa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c" width="60%"/>
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HerreraMencoMelissa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e91e8c&cache_bust=1" width="60%"/>
 
 </div>
 
@@ -77,5 +81,5 @@ He participado en proyectos académicos que incluyen sistemas de gestión desarr
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:herreramencomelissa@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div> <div align="center">
+
 </div>
